@@ -18,10 +18,10 @@
 - Coffee 
 
 |   Name  | Item | Cost | 
-|Maria|Oranges |$6 |
-|Rachael | Lemons | $5 |
-|Jessica |Grapefruit|$8|
-Lauren | Limes | $3 |
+| Maria | Oranges |$6 |
+| Rachael | Lemons | $5 |
+| Jessica | Grapefruit | $8 |
+| Lauren | Limes | $3 |
 |-----|-----|-----|
 
 !(http://fullhdpictures.com/wp-content/uploads/2015/03/Smiling-Cat-Wallpapers.jpg"A Very Happy Cat")
