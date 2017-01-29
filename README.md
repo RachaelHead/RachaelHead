@@ -18,11 +18,11 @@
 - Coffee 
 
 |   Name  | Item | Cost | 
-| ------- | ------|------ |
+| --- | ---|--- |
 | Rachael | Lemons | $5 |
-| ------- | ------ | ------ |
+| --- | --- | --- |
 | Lauren | Limes | $3 |
-|-----|-----|-----|
+|---|---|---|
 
 !(http://fullhdpictures.com/wp-content/uploads/2015/03/Smiling-Cat-Wallpapers.jpg"A Very Happy Cat")
 
