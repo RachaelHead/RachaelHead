@@ -19,7 +19,7 @@
 
 |   Name  | Item | Cost | 
 |Maria|Oranges |$6 |
-Rachael | Lemons | $5 |
+|Rachael | Lemons | $5 |
 |Jessica |Grapefruit|$8|
 Lauren | Limes | $3 |
 |-----|-----|-----|
