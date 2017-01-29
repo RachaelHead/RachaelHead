@@ -16,6 +16,7 @@
 - Baby Carrots
 - Hummus
 - Coffee 
+-----
 
    Name  | Item | Cost  
  --- | ---|--- 
